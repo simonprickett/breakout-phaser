@@ -1,6 +1,8 @@
 # breakout-phaser
 
-TODO details...
+![demo](demo.gif)
+
+TODO - details...
 
 Play it [here](https://simonprickett.github.io/breakout-phaser/).
 
