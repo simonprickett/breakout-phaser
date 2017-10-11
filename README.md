@@ -4,6 +4,8 @@
 
 TODO - details...
 
+Based on start point code from [Gus Suarez](https://github.com/aerze/breakout).
+
 Play it [here](https://simonprickett.github.io/breakout-phaser/).
 
 ## Setup
