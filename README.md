@@ -2,6 +2,8 @@
 
 TODO details...
 
+Play it [here](https://simonprickett.github.io/breakout-phaser/).
+
 ## Setup
 
 Clone repo then:
