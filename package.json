@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm run webpack && npm run static",
+    "start": "webpack && npm run static",
     "webpack": "webpack -w",
     "static": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\" ./public",
     "test": "standard ./src"
